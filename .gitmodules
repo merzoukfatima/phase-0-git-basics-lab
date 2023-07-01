@@ -1,0 +1,3 @@
+[submodule "my_repository"]
+	path = my_repository
+	url = git@github.com:merzoukfatima/my-repository.git
